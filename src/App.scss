@@ -1,0 +1,25 @@
+span {
+    display: block;
+}
+
+label {
+    display: block;
+    padding: 10px;
+}
+
+.item {
+    margin-bottom: 30px;
+
+    &-title {
+        font-weight: bold;
+        font-size: 20px;
+    }
+}
+
+.nav {
+    margin-bottom: 10px;
+
+    &-item {
+        padding: 10px;
+    }
+}
